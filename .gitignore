@@ -1,0 +1,5 @@
+# Ignore IDE Stuff
+.vscode
+
+# MacOS
+.DS_Store
